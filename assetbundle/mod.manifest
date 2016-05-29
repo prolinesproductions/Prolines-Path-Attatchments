@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 3148547466
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0cef76f4e4748e742293f64fc3c2832c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6c32efe6957ea69e9bc0d2363d439fef
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Mods/Prolines Path Attachments/Prolines Path Attachments@Square Stone Bin.prefab
+- Assets/Mods/Prolines Path Attachments/Prolines Path Attachments@Hippo Bin.prefab
+- Assets/Mods/Prolines Path Attachments/Prolines Path Attachments@Casual Wooden Bench.prefab
+- Assets/Mods/Prolines Path Attachments/Prolines Path Attachments@Abstract Bench.prefab
+- Assets/Mods/Prolines Path Attachments/Prolines Path Attachments@Square Wooden Bin.prefab
+- Assets/Mods/Prolines Path Attachments/Prolines Path Attachments@Modern Stone Bench.prefab
+- Assets/Mods/Prolines Path Attachments/Prolines Path Attachments@Stone Bin.prefab
+- Assets/Mods/Prolines Path Attachments/Prolines Path Attachments@Casual Bin.prefab
+- Assets/Mods/Prolines Path Attachments/Prolines Path Attachments@Vintage Street Lamp.prefab
+- Assets/Mods/Prolines Path Attachments/Prolines Path Attachments@Street Lamp.prefab
+- Assets/Mods/Prolines Path Attachments/Prolines Path Attachments@Modern Lamp.prefab
+- Assets/Mods/Prolines Path Attachments/Prolines Path Attachments@Circular Wooden
+  Bin.prefab
+- Assets/Mods/Prolines Path Attachments/Prolines Path Attachments@Metal Side Bench.prefab
+- Assets/Mods/Prolines Path Attachments/Prolines Path Attachments@Modern Wooden Bench.prefab
+- Assets/Mods/Prolines Path Attachments/Prolines Path Attachments@Circle Wooden Bench.prefab
+Dependencies: []
