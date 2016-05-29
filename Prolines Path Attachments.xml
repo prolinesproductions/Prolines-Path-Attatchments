@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ModName>Prolines Path Attachments</ModName>
+  <ModDiscription>Adds new path attachments!</ModDiscription>
+  <Objects>
+    <Object>
+      <OBJName>Prolines Path Attachments@Abstract Bench</OBJName>
+      <Type>seating</Type>
+      <inGameName>Abstract Bench</inGameName>
+      <price>5</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Prolines Path Attachments@Casual Bin</OBJName>
+      <Type>trashbin</Type>
+      <inGameName>Casual Bin</inGameName>
+      <price>3</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Prolines Path Attachments@Casual Wooden Bench</OBJName>
+      <Type>seating</Type>
+      <inGameName>Casual Wooden Bench</inGameName>
+      <price>5</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Prolines Path Attachments@Circle Wooden Bench</OBJName>
+      <Type>seating</Type>
+      <inGameName>Circle Wooden Bench</inGameName>
+      <price>8</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Prolines Path Attachments@Circular Wooden Bin</OBJName>
+      <Type>trashbin</Type>
+      <inGameName>Circular Wooden Bin</inGameName>
+      <price>3</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Prolines Path Attachments@Hippo Bin</OBJName>
+      <Type>trashbin</Type>
+      <inGameName>Hippo Bin</inGameName>
+      <price>4</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Prolines Path Attachments@Metal Side Bench</OBJName>
+      <Type>seating</Type>
+      <inGameName>Metal Side Bench</inGameName>
+      <price>3</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Prolines Path Attachments@Modern Lamp</OBJName>
+      <Type>lamp</Type>
+      <inGameName>Modern Lamp</inGameName>
+      <price>7</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Prolines Path Attachments@Modern Stone Bench</OBJName>
+      <Type>seating</Type>
+      <inGameName>Modern Stone Bench</inGameName>
+      <price>5</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Prolines Path Attachments@Modern Wooden Bench</OBJName>
+      <Type>seating</Type>
+      <inGameName>Modern Wooden Bench</inGameName>
+      <price>5</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Prolines Path Attachments@Square Stone Bin</OBJName>
+      <Type>trashbin</Type>
+      <inGameName>Square Stone Bin</inGameName>
+      <price>3</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Prolines Path Attachments@Square Wooden Bin</OBJName>
+      <Type>trashbin</Type>
+      <inGameName>Square Wooden Bin</inGameName>
+      <price>3</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Prolines Path Attachments@Stone Bin</OBJName>
+      <Type>trashbin</Type>
+      <inGameName>Stone Bin</inGameName>
+      <price>3</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Prolines Path Attachments@Street Lamp</OBJName>
+      <Type>lamp</Type>
+      <inGameName>Street Lamp</inGameName>
+      <price>9</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Prolines Path Attachments@Vintage Street Lamp</OBJName>
+      <Type>lamp</Type>
+      <inGameName>Vintage Street Lamp</inGameName>
+      <price>7</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+  </Objects>
+</Mod>
